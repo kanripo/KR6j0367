@@ -1,0 +1,5 @@
+001-0859a00	X 001-0859a	buddhist/X-xuzang/X02/08/X02-0859.png
+001-0859b00	X 001-0859b	buddhist/X-xuzang/X02/08/X02-0859.png
+001-0859c00	X 001-0859c	buddhist/X-xuzang/X02/08/X02-0859.png
+001-0860a00	X 001-0860a	buddhist/X-xuzang/X02/08/X02-0860.png
+001-0860b00	X 001-0860b	buddhist/X-xuzang/X02/08/X02-0860.png
